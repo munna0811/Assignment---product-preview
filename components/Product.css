@@ -1,0 +1,21 @@
+body{
+    background-color:  hsl(30, 38%, 92%);
+}
+.bigimage{
+    /* height: "30rem"; */
+    width: 100%;
+}
+button{
+   background-color: hsl(158, 36%, 37%);
+   color: hsl(0, 0%, 100%);
+   display: block;
+   width: 100%;
+   border: none;
+   border-radius: 0.5rem;
+    padding: 0.8rem;
+    margin-top: 1.5rem;
+
+}
+button img{
+    padding-right: 1rem;
+}
